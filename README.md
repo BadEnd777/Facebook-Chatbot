@@ -2,7 +2,7 @@
 This is a simple Facebook Chatbot. built with Node.js and Express.js.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/BadEnd777/Facebook-Chatbot.git`
+1. Clone the repository: `git clone https://github.com/BadEnd777/Facebook-Chatbot.git` or [download](https://github.com/BadEnd777/Facebook-Chatbot/archive/refs/heads/main.zip)
 2. Install dependencies: `npm install`
 3. Create a Facebook Developer account and a Facebook App. Follow the instructions in the Facebook Developer documentation to set up a Messenger app and a webhook.
 4. Set up the .env file with your Facebook App credentials and webhook URL.
