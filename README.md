@@ -46,8 +46,5 @@ A: Follow the instructions in the [Facebook Developer documentation](https://dev
 ## Contact
 If you have any questions, feel free to contact me at [Email](mailto:badend23@hotmail.com).
 
-## Author
-* **BadEnd777** - [BadEnd777](https://github.com/BadEnd777)
-
 ## License
 This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details.
