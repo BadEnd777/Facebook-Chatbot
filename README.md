@@ -8,7 +8,7 @@ This is a simple Facebook Chatbot. built with Node.js and Express.js.
 4. Set up the .env file with your Facebook App credentials and webhook URL.
 
 ### Usage
-Once the installation is complete, start the chatbot by running the command `npm start. The chatbot will start listening for incoming messages on the webhook URL.
+Once the installation is complete, start the chatbot by running the command `npm start`. The chatbot will start listening for incoming messages on the webhook URL.
 
 To interact with the chatbot, open the Facebook Messenger app and start a conversation with the page that the chatbot is connected to. You can then send messages to the chatbot and receive responses in real-time.
 
